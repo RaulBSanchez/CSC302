@@ -17,6 +17,7 @@ public class BigInt {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //Print out factorial of each number 2-50
          BigInteger bigFactorial = new BigInteger("1");
         for(int i = 2; i <= 50; i++)
         {
